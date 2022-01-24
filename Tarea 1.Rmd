@@ -1,0 +1,49 @@
+---
+title: "Mercados Laborales: Tarea 1 (Equipo 2)"
+author: 
+  - José Emilio Cendejas Guízar^[El Colegio de México, jcendejas@colmex.mx]
+  - Héctor González Magaña^[El Colegio de México, hgonzalez@colmex.mx]
+  - Lino Antonio Mendoza Millán^[El Colegio de México, lamendoza@colmex.mx]
+date: "1/23/2022"
+output: 
+  pdf_document:
+    toc: true
+    toc_depth: 3
+  tables: true
+toc-title: Contenido
+urlcolor: blue
+header-includes: 
+  - \usepackage[nottoc]{tocbibind}
+  - \renewcommand{\listfigurename}{Lista de figuras}
+  - \renewcommand{\listtablename}{Lista de tablas}
+  - \usepackage[utf8]{inputenc}
+  - \usepackage[spanish]{babel}
+  - \usepackage{graphicx}
+  - \usepackage{float}
+---
+
+
+\newpage
+
+\listoffigures
+
+\listoftables
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE, fig.align="center", fig.pos = "H", fig.width = 7, fig.height = 3)
+```
+
+\newpage
+
+# Preguntas teóricas
+
+# Ejercicios prácticos
+
+
+
+
+
+
+
+
+
