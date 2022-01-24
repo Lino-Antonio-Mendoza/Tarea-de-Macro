@@ -1,5 +1,5 @@
 ---
-title: "Mercados Laborales: Tarea 1 (Equipo 2)"
+title: "Mercados Laborales: Tarea 1 (Equipo 4)"
 author: 
   - José Emilio Cendejas Guízar^[El Colegio de México, jcendejas@colmex.mx]
   - Héctor González Magaña^[El Colegio de México, hgonzalez@colmex.mx]
